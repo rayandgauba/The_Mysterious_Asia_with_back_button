@@ -1,0 +1,19 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+  text-align: center;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #f0e876, #f6f342, #f5f840, #fffb22, #ffe600);
+}
+
+.header
+{
+	color: purple;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+#aa{
+    height: 100px;
+}
